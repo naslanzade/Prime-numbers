@@ -1,0 +1,5 @@
+C:\Users\novra\OneDrive\Desktop\Prime and complex numbers\Ptrime or complex numbers\Ptrime or complex numbers\obj\Debug\net6.0\Ptrime or complex numbers.csproj.AssemblyReference.cache
+C:\Users\novra\OneDrive\Desktop\Prime and complex numbers\Ptrime or complex numbers\Ptrime or complex numbers\obj\Debug\net6.0\Ptrime or complex numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novra\OneDrive\Desktop\Prime and complex numbers\Ptrime or complex numbers\Ptrime or complex numbers\obj\Debug\net6.0\Ptrime or complex numbers.AssemblyInfoInputs.cache
+C:\Users\novra\OneDrive\Desktop\Prime and complex numbers\Ptrime or complex numbers\Ptrime or complex numbers\obj\Debug\net6.0\Ptrime or complex numbers.AssemblyInfo.cs
+C:\Users\novra\OneDrive\Desktop\Prime and complex numbers\Ptrime or complex numbers\Ptrime or complex numbers\obj\Debug\net6.0\Ptrime or complex numbers.csproj.CoreCompileInputs.cache
